@@ -40,7 +40,7 @@ Required columns:
 
 Review
 Review2 (optional)
-rating
+rating(r should be small else it will show error)
 📸 Preview
 
 Upload your Google Reviews dataset and instantly visualize:
